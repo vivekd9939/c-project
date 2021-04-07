@@ -8,5 +8,5 @@ if [ $rem -eq 0 ]
 then
   echo "$n is even number"
 else
-  echo "$n is a odd number"
+  echo "$n is a odd numberr"
 fi
