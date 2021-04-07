@@ -6,6 +6,6 @@ echo " $1 is big "
 elif [ $2 -gt $1 ] && [ $2 -gt $3 ]; then
 echo " $2 is big number"
 else
-echo " $3 is big "
+echo " $3 is big number "
 fi
 
