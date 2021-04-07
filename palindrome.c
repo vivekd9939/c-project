@@ -5,5 +5,5 @@ rev=$(echo $n | rev)
 if [ $n -eq $rev ]; then
    echo "Number is a palindrome"
 else
-   echo "Number is not palindrome"
+   echo " this Number is not palindrome"
 fi
